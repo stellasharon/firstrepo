@@ -4,7 +4,7 @@
   <groupId>org.sonatype.mavenbook</groupId>
   <artifactId>simple_java</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.2</version>
   <name>simple_java</name>
   <url>http://maven.apache.org</url>
 
