@@ -9,6 +9,7 @@
   <version>${version}</version>
   <packaging>pom</packaging>
   <name>Multi Chapter Parent Project</name>
+  <!---xml--->       
   <modules>
     <module>simple-parent</module>
   </modules>
