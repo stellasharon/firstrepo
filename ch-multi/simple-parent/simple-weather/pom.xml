@@ -7,7 +7,7 @@
   <parent>
     <groupId>org.sonatype.mavenbook.multi</groupId>
     <artifactId>simple-parent</artifactId>
-    <version>0.8-SNAPSHOT</version>
+    <version>3.0-RELEASE</version>
   </parent>
   <artifactId>simple-weather</artifactId>
   <packaging>jar</packaging>
